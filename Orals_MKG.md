@@ -26,41 +26,43 @@ Development of technology as infrastructure/service/empire for expanding communi
 
 ### Media Studies
 Social networks and new media increasingly influence our relationship to correspondence. By looking at how scholars have theorized new media, I hope to get a clearer sense of how the message is medium works across distributed communications platforms. With the Kittler and McLuhan, I aim to ground my reading in the works that defined Media Studies. Drucker, Gitelman, and Hayles will 
-* Kittler
-* McLuhan
-* Drucker
-* Gitelman
-* McGann
+* [Kittler](#### Kittler)
+* [McLuhan](#### McLuhan)
+* [Drucker](#### Drucker)
+* [Gitelman](#### Gitelman)
+* [McGann](#### McGann)
 
-* Kittler, Friederich. Transl. John Johnston. **Literature, Information, Systems.** (1997)
+#### Kittler, Friederich. Transl. John Johnston. **Literature, Information, Systems.** (1997)
 
 Kittler may disagree with McLuhan about the extent to which machines are contiguous with humans, but he offers a compelling view of metaphors of one media manifested in another. These essays importantly demonstrate...
 
 
-* McLuhan, Marshall. Understanding Media (1964)
+#### McLuhan, Marshall. Understanding Media (1964)
 
-* Drucker
+#### Drucker
 
 Johanna Drucker's seminal text about contemporary visual culture not only recognizes the power of ubiquitous visualization to structure our relationship to information, but it also demonstrates how presentation can be production of knowledge. Of particular interest to my work, she addresses the graphical user interface (GUI) and the ways these interfaces shape knowledge, behavior and identity. Though text and letters have always been mediated, the shift to more digital communication means that the mediation of our personal correspondence has shifted. Understanding Drucker's critical vocabulary of visual mediation is especially relevant when considering epistolary shifts.
 
-* Gitelman
+#### Gitelman
 
 Gitelman's history of documents provides an important media grounding. While her chosen are more process-based and administrative in nature than the personal letter, they provide a necessary corrollary to the history of email. As these technologies have aimed to make our lives more efficient, they have also influenced our documentation of our own lives. She charts the history of paper stubs -- the library card, the promissory note, the movie ticket, the PDF (Portable Document Format) -- and processes -- letterpress printing, typing and carbon paper, mimeograph, microfilm, offset printing, photocopying, and scanning. 
 
-* McGann
+#### McGann
 
 McGann's radiant compilation emulates his sense of radiating texts. Ranging widely, **Radiant Textuality** spans diverse areas of humanities theory and method. McGann looks at the shift that occurred with the emergence of the internet, which "globalized access to computerized resources and information," and "made interface and computer graphics paramount concerns for work in digital culture." 
 
 
 ### Communications Studies
 
-* Benjamin, Walter. 
-* Carey, James W.
-* Nunes, Mark.
-* Milne, Esther.
-* Brunton, Finn.
-* Ong, Walter.
-* Derrida, Jacques. 
+* [Benjamin, Walter.](#### Benjamin)
+* [Brunton, Finn.](#### Brunton)
+* [Carey, James W.](#### Carey)
+* [Nunes, Mark.](#### Nunes)
+* [Milne, Esther.](#### Milne)
+* [Ong, Walter.](#### Ong)
+* [Derrida, Jacques.](#### Derrida)
+
+#### Benjamin
 
 #### Carey
 Carey provides a philosophical argument in favor of Communications studies as fundamental to a cultural studies model of language and literature scholarship. 
