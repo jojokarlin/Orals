@@ -1,6 +1,21 @@
-# Communicating Correspondence: Mail Literary and Electronic
+# Messaging Media
+Communicating Correspondence: Mail Literary and Electronic
 
 ## Rationale
+Explain why digital humanities in the context of Letters
+Explain three-fold consideration of Digital Humanities
+* Possibilities for archiving older forms of communication in new ways
+* Possibilities for networking existing forms of communication
+*Shift in communications technologies
+* Epistemological shift parallel to massive communications switch
+* Paradoxical insufficiencies for preserving current technologies
+
+Project proposal -- why the media must be part of the method
+
+Preservation preoccupation -- why can't we read authors' emails?
+
+Development of technology as infrastructure/service/empire for expanding communications
+(Either Communications as Empire or Necessitated by Empire...)
 
 
 ## Clusters
