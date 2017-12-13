@@ -11,7 +11,7 @@ This portion of the bibliography establishes a notion of social self-understandi
 ### Concepts of Time
 * Kubler
 * Gleick
-*Bergson
+* Bergson
 ### Minding Matter, Mattering Mind
 * Whitehead
 * Bergson
@@ -37,12 +37,12 @@ This portion of the bibliography establishes a notion of social self-understandi
 
 ## Bibliography
 ### Psychology of Time
-1. Ralph Waldo Emerson, **Experience**
-1. George Kubler, **The Shape of Time**
-2. James Gleick, **Time Travel** 
-3. Brian Rotman, **Becoming Beside Ourselves** 
-4. Siri Hustvedt, **The Shaking Woman** 
-5. William James, **Principles of Psychology** 
+1. Ralph Waldo Emerson, *Experience*
+1. George Kubler, *The Shape of Time*
+2. James Gleick, *Time Travel* 
+3. Brian Rotman, *Becoming Beside Ourselves* 
+4. Siri Hustvedt, *The Shaking Woman* 
+5. William James, *Principles of Psychology* 
 6. William James, Essays in Radical Empiricism ("How Two Minds...") 
 6. Mikhail Bakhtin, "Forms of Time and of the Chronotope in the Novel"
 ### Time and Memory
