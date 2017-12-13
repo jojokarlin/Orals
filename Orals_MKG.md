@@ -2,7 +2,7 @@
 Communicating Correspondence: Mail Literary and Electronic
 
 ## Rationale
-Explain why digital humanities in the context of Letters
+This group of texts addresses the transitions of letters as other media arose, and specifically in contrast to somewhat zeumorphic electronic "mail." By examining these two media as media of messages, I hope to Explain why digital humanities in the context of Letters
 Explain three-fold consideration of Digital Humanities
 * Possibilities for archiving older forms of communication in new ways
 * Possibilities for networking existing forms of communication
@@ -40,6 +40,8 @@ Kittler may disagree with McLuhan about the extent to which machines are contigu
 
 
 #### McLuhan, Marshall. Understanding Media (1964)
+
+"The media is the message," perhaps McLuhan's most iconic claim, goes a step beyond the death of the author to postulate that in a globalized system, content is moot and medium is all. McLuhan's designation of "Hot" and "Cool" media, gauged by the degree of consumer participation, provide an interesting rubric for considering epistolary media. McLuhan's concept that the content of any medium is another previous medium describes a palimpsested media landscape that enables analysis of overlapping forms. While many of the media McLuhan approaches have since been theorized more extensively, he afforded a critical shift to media studies that carried the more flexible aspects of New Criticism over into a more materially grounded field. Among the media of particular importance to the study of letters are McLuhan's mechanization, electricity, telegraph, and telephone.
 
 #### Drucker
 
@@ -85,14 +87,21 @@ Collecting letters is an important act in the twenty-first century. A number of 
 
 ### Technologies 
 
-* Ted Nelson
-* David J. Bolter
-* Vannevar Bush
-* Walter Benjamin
-* Kirschenbaum
+* [Ted Nelson](#nelson)
+* [David J. Bolter](#bolter)
+* [Vannevar Bush](#bush)
+* [Walter Benjamin](#benjamin)
+* [Kirschenbaum](#kirschenbaum)
 
+### Nelson
 
+### Bolter
 
+### Bush
+
+### Benjamin
+
+### Kirschenbaum
 
 
 ## Bibliography
