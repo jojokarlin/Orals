@@ -1,7 +1,14 @@
-# Messaging Media
+---
+title: Messaging Media
+author: Jojo
+bibliography: refs.yaml
+csl: modern-language-association.csl
+---
+
 Communicating Correspondence: Mail Literary and Electronic
 
 ## Rationale
+
 This group of texts addresses the transitions of letters as other media arose, and specifically in contrast to somewhat zeumorphic electronic "mail." By examining these two media as media of messages, I hope to Explain why digital humanities in the context of Letters
 Explain three-fold consideration of Digital Humanities
 * Possibilities for archiving older forms of communication in new ways
@@ -10,9 +17,13 @@ Explain three-fold consideration of Digital Humanities
 * Epistemological shift parallel to massive communications switch
 * Paradoxical insufficiencies for preserving current technologies
 
-Project proposal -- why the media must be part of the method
+Project proposal
 
-Preservation preoccupation -- why can't we read authors' emails?
+: Why the media must be part of the method
+
+Preservation preoccupation
+
+: Why can't we read authors' emails?
 
 Development of technology as infrastructure/service/empire for expanding communications
 (Either Communications as Empire or Necessitated by Empire...)
@@ -28,15 +39,15 @@ Development of technology as infrastructure/service/empire for expanding communi
 
 ### Media Studies
 Social networks and new media increasingly influence our relationship to correspondence. By looking at how scholars have theorized new media, I hope to get a clearer sense of how the message is medium works across distributed communications platforms. With the Kittler and McLuhan, I aim to ground my reading in the works that defined Media Studies. Drucker, Gitelman, and Hayles will 
-* [Kittler](#kittler)
-* [McLuhan](#mcluhan)
-* [Drucker](#drucker)
+* [Kittler](#kittler1997)
+* [McLuhan](#mcluhan1964)
+* [Drucker](#drucker2014)
 * [Gitelman](#gitelman)
 * [McGann](#mcgann)
 
-#### Kittler, Friederich. Transl. John Johnston. **Literature, Information, Systems.** (1997)
+#### Kittler 1997
 
-Kittler may disagree with McLuhan about the extent to which machines are contiguous with humans, but he offers a compelling view of metaphors of one media manifested in another. These essays importantly demonstrate...
+Kittler may disagree with McLuhan about the extent to which machines are contiguous with humans, but he offers a compelling view of metaphors of one media manifested in another [@kittler1997]. These essays importantly demonstrate...
 
 
 #### McLuhan, Marshall. Understanding Media (1964)
@@ -67,6 +78,7 @@ McGann's radiant compilation emulates his sense of radiating texts. Ranging wide
 * [Derrida, Jacques.](#derrida)
 
 #### Benjamin
+Walter Benjamin's influential essay "The Work of Art in the Age of Mechanical Reproduction" argues that the mass reproduction of art objects diminishes its "aura." He identifies concerns of technology at the time of the letters I will be analyzing, and establishes a space of critical criticism. Labelling machine-made artistic production as absent of traditional and ritualistic values, Benjamin sees mass production as the wielding of political power. Not only does this essay provide important context of the early 20th century, but its argument also contends with an anxiety about dehumanization that only rises with the further mechanization and electrification of personal correspondence by computer. 
 
 #### Carey
 Carey provides a philosophical argument in favor of Communications studies as fundamental to a cultural studies model of language and literature scholarship. 
@@ -98,8 +110,6 @@ Collecting letters is an important act in the twenty-first century. A number of 
 ### Bolter
 
 ### Bush
-
-### Benjamin
 
 ### Kirschenbaum
 

@@ -1,0 +1,1046 @@
+---
+references:
+- id: nagel2010
+  type: book
+  title: Anachronic renaissance
+  publisher: Zone Books ; Distributed by MIT Press
+  number-of-pages: '455'
+  source: browse.nypl.org Library Catalog
+  ISBN: 978-1-935408-02-4
+  call-number: JQZ 12-2740
+  note: 'OCLC: 421949764'
+  author:
+    - family: Nagel
+      given: Alexander
+    - family: Wood
+      given: Christopher S.
+  issued:
+    date-parts:
+      - - 2010
+  publisher-place: 'New York : Cambridge, Mass'
+
+- id: bulu2012
+  type: article-journal
+  title: >-
+    Place presence, social presence, co-presence, and satisfaction in virtual
+    worlds
+  container-title: Computers & Education
+  page: 154–161
+  volume: '58'
+  issue: '1'
+  source: onesearch.cuny.edu
+  abstract: >-
+    This study investigated the relationship among three types of presences,
+    including place presence, social presence, and co-presence in virtual worlds
+    and their relationship with satisfaction and immersive tendencies of
+    students. Students' scores on a subjective questionnaire were analyzed. The
+    results indicated that there was a significant relationship among the place
+    presence, social presence, and co-presence. While social presence seemed to
+    affect the satisfaction most, place and co-presence also affected students'
+    satisfaction in the virtual world. Moreover, immersive tendencies of the
+    students were related to their place and co-presence but not to their social
+    presence. Findings highlighted the important issues for the design of
+    virtual world environments to increase presence and satisfaction of
+    students. (Contains 3 figures and 2 tables.)
+  DOI: 10.1016/j.compedu.2011.08.024
+  ISSN: 0360-1315
+  language: English
+  author:
+    - family: Bulu
+      given: Saniye Tugba
+  issued:
+    date-parts:
+      - - 2012
+
+- id: milne
+  type: book
+  title: 'Letters, Postcards, Email'
+  abstract: >-
+    In this original study, Milne moves between close readings of letters,
+    postcards and emails, and investigations of the material, technological
+    infrastructures of these forms, to answer the question: How does presence
+    function as an aesthetic and rhetorical strategy within networked
+    communication practices? As her work reveals, the relation between old and
+    new communication systems is more complex than allowed in much contemporary
+    media theory. Although the correspondents of letters, postcards and emails
+    are not, usually, present to one another as they write and read their
+    exchanges, this does not necessarily inhibit affective communication.
+    Indeed, this study demonstrates how physical absence may, in some instances,
+    provide correspondents with intense intimacy and a spiritual, almost
+    telepathic, sense of the other’s presence. While corresponding by letter,
+    postcard or email, readers construe an imaginary, incorporeal body for their
+    correspondents that, in turn, reworks their interlocutor’s
+    self-presentation. In this regard the fantasy of presence reveals a key
+    paradox of cultural communication, namely that material signifiers can be
+    used to produce the experience of incorporeal presence.
+  URL: 'http://www.tandfebooks.com/doi/book/10.4324/9780203862155'
+  author:
+    - family: Milne
+      given: Esther
+  accessed:
+    date-parts:
+      - - '2017'
+        - 8
+        - 22
+
+- id: carey2009
+  type: book
+  title: 'Communication as culture: essays on media and society'
+  publisher: 'Routledge, Taylor & Francis Group'
+  number-of-pages: '205'
+  edition: Revised edition
+  source: libsearch.cuny.edu Library Catalog
+  abstract: >-
+    "In this classic text, James W. Carey maintains that communication is not
+    merely the transmission of information. Reminding the reader of the link
+    between the words "communication" and "community," he broadens his
+    definition to include the drawing-together of a people that is culture. In
+    this context, Carey questions the American tradition of focusing only on
+    mass communication's function as a means of social and political control,
+    and makes a case for examining the content of a communication - the meaning
+    of symbols, not only the motives that originate them or the purposes they
+    serve. He seeks to recast the goal of communications studies, replacing the
+    search for deterministic laws of behavior with a simpler, yet far more
+    challenging mission: "to enlarge the human conversation by comprehending
+    what others are saying."" "This new edition includes a new critical foreword
+    by G. Stuart Adam that explains Carey's fundamental role in transforming the
+    study of mass communication to include a cultural perspective and connects
+    his classic essays with contemporary media issues and trends. This edition
+    also adds a new, complete bibliography of all of Carey's writings."--Jacket
+  ISBN: 978-0-415-98975-6 978-0-415-98976-3
+  call-number: P94.6 .C372 2009
+  note: 'OCLC: 212628054'
+  author:
+    - family: Carey
+      given: James W.
+    - family: Adam
+      given: Gordon Stuart
+  issued:
+    date-parts:
+      - - 2009
+  publisher-place: New York
+  title-short: Communication as culture
+
+- id: derrida2005
+  type: book
+  title: Paper Machine
+  collection-title: Cultural memory in the present
+  publisher: Stanford University Press
+  number-of-pages: '203'
+  source: libsearch.cuny.edu Library Catalog
+  ISBN: 978-0-8047-4619-9 978-0-8047-4620-5
+  call-number: B2430 .D483 P3613 2005
+  language: eng
+  author:
+    - family: Derrida
+      given: Jacques
+  issued:
+    date-parts:
+      - - 2005
+  publisher-place: 'Stanford, Calif'
+
+- id: nunes2006
+  type: chapter
+  title: 'Email, The Letter, and The Post'
+  container-title: Cyberspaces of Everyday Life
+  publisher: University of Minnesota Press
+  page: 86-126
+  URL: 'http://www.jstor.org.ezproxy.gc.cuny.edu/stable/10.5749/j.cttttrmg.7'
+  author:
+    - family: Nunes
+      given: Marke
+  issued:
+    date-parts:
+      - - 2006
+
+- id: brunton2013
+  type: book
+  title: 'Spam: a shadow history of the Internet'
+  collection-title: Infrastructures
+  publisher: The MIT Press
+  number-of-pages: '270'
+  source: Library of Congress ISBN
+  ISBN: 978-0-262-01887-6
+  call-number: HE7553 .B78 2013
+  author:
+    - family: Brunton
+      given: Finn
+  issued:
+    date-parts:
+      - - 2013
+  publisher-place: 'Cambridge, Massachusetts'
+  title-short: Spam
+
+- id: woolf1976
+  type: book
+  title: 'The letters of Virginia Woolf. Vol. 2: 1912 - 1922'
+  publisher: Harcourt Brace Jovanovich
+  number-of-pages: '627'
+  edition: 1. American ed
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: 978-0-15-150925-6
+  note: 'OCLC: 256315583'
+  language: eng
+  author:
+    - family: Woolf
+      given: Virginia
+    - family: Nicolson
+      given: Nigel
+  issued:
+    date-parts:
+      - - 1976
+  publisher-place: 'New York, NY'
+  title-short: The letters of Virginia Woolf. Vol. 2
+
+- id: woolf1980
+  type: book
+  title: 'The letters of Virginia Woolf. Vol. 3: 1923 - 1928'
+  collection-title: A Harvest/HBJ book
+  publisher: Harcourt Brace Jovanovich
+  number-of-pages: '600'
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: 978-0-15-650883-4
+  note: 'OCLC: 258159631'
+  language: eng
+  author:
+    - family: Woolf
+      given: Virginia
+    - family: Nicolson
+      given: Nigel
+    - family: Banks
+      given: Joanne Trautmann
+  issued:
+    date-parts:
+      - - 1980
+  publisher-place: New York
+  title-short: The letters of Virginia Woolf. Vol. 3
+
+- id: woolf1978
+  type: book
+  title: 'The letters of Virginia Woolf. Vol. 4: 1929 - 1931'
+  publisher: Harcourt Brace Jovanovich
+  number-of-pages: '442'
+  edition: 1. American ed
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: 978-0-15-150927-0
+  note: 'OCLC: 310464385'
+  language: eng
+  author:
+    - family: Woolf
+      given: Virginia
+    - family: Nicolson
+      given: Nigel
+  issued:
+    date-parts:
+      - - 1978
+  publisher-place: 'New York, NY'
+  title-short: The letters of Virginia Woolf. Vol. 4
+
+- id: woolf1980a
+  type: book
+  title: 'The letters of Virginia Woolf. Vol. 6: 1936 - 1941'
+  publisher: Harcourt Brace Jovanovich
+  number-of-pages: '556'
+  edition: 1. American ed
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: 978-0-15-150929-4
+  note: 'OCLC: 258665552'
+  language: eng
+  author:
+    - family: Woolf
+      given: Virginia
+    - family: Nicolson
+      given: Nigel
+  issued:
+    date-parts:
+      - - 1980
+  publisher-place: 'New York, NY'
+  title-short: The letters of Virginia Woolf. Vol. 6
+
+- id: woolf1979
+  type: book
+  title: 'The letters of Virginia Woolf. Vol. 5: 1932 - 1935'
+  publisher: Harcourt Brace Jovanovich
+  number-of-pages: '476'
+  edition: 1. American ed
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: 978-0-15-150928-7
+  note: 'OCLC: 310464393'
+  language: eng
+  author:
+    - family: Woolf
+      given: Virginia
+    - family: Nicolson
+      given: Nigel
+  issued:
+    date-parts:
+      - - 1979
+  publisher-place: 'New York, NY'
+  title-short: The letters of Virginia Woolf. Vol. 5
+
+- id: derrida1987
+  type: book
+  title: 'The Post Card: from Socrates to Freud and Beyond'
+  publisher: University of Chicago Press
+  number-of-pages: '521'
+  source: Library of Congress ISBN
+  ISBN: 978-0-226-14320-0 978-0-226-14322-4
+  call-number: B2430.D483 C3713 1987
+  language: engfre
+  author:
+    - family: Derrida
+      given: Jacques
+  issued:
+    date-parts:
+      - - 1987
+  publisher-place: Chicago
+  title-short: The post card
+
+- id: gitelman2014
+  type: book
+  title: 'Paper Knowledge: Toward a Media History of Documents'
+  collection-title: 'Sign, Storage, Transmission'
+  publisher: Duke University Press
+  number-of-pages: '210'
+  source: Library of Congress ISBN
+  ISBN: 978-0-8223-5645-5 978-0-8223-5657-8
+  call-number: P96.T42 G56 2014
+  author:
+    - family: Gitelman
+      given: Lisa
+  issued:
+    date-parts:
+      - - 2014
+  publisher-place: Durham ; London
+  title-short: Paper knowledge
+
+- id: zuern2013
+  type: chapter
+  title: 'Reading Screens:: Comparative Perspectives on Computational Poetics'
+  container-title: Comparative Textual Media
+  collection-title: Transforming the Humanities in the Postprint Era
+  publisher: University of Minnesota Press
+  page: 255-282
+  source: JSTOR
+  abstract: >-
+    On july 27, 1929, *Lindbergh’s Flight,* a cantata for radio written by
+    Bertolt Brecht (2003), with a score by Paul Hindemith and Kurt Weill,
+    premiered as a live performance at the Festival for German Chamber Music in
+    Baden-Baden. At once celebrating and commenting critically on Charles
+    Lindbergh’s historic solo crossing of the Atlantic two years earlier, the
+    piece also advances Brecht’s famous appeal for an application of the
+    relatively new technology of the radio that would go beyond the function of
+    a few-to-many broadcasting system in the grip of a capitalist media elite to
+    become a means of many-to-many communication
+  URL: 'http://www.jstor.org.ezproxy.gc.cuny.edu/stable/10.5749/j.ctt5hjjtq.17'
+  ISBN: 978-0-8166-8004-7
+  author:
+    - family: Zuern
+      given: John David
+  collection-editor:
+    - family: HAYLES
+      given: N. KATHERINE
+    - family: PRESSMAN
+      given: JESSICA
+  issued:
+    date-parts:
+      - - 2013
+  title-short: Reading Screens
+
+- id: drucker2013
+  type: chapter
+  title: From A to Screen
+  container-title: Comparative Textual Media
+  collection-title: Transforming the Humanities in the Postprint Era
+  publisher: University of Minnesota Press
+  page: 71-96
+  source: JSTOR
+  abstract: >-
+    How do letters appear on our screens, these exquisite expressions of design,
+    our Baskerville so clearly differentiated from the Caslon and Comic Sans
+    that we recognize instantly what font families we are inviting into view? Do
+    they come, like pasta letters in a can of alphabet soup, intact and already
+    formed, down the pipeline of network connections, so many obedient foot
+    soldiers in the ranks of our textual forces? Are they conjured to their
+    tasks through the sorcery of application apprentices calling the infinite
+    stream of glyphic figures into service for maneuvers as written rows and
+    ranks? Arguably among the
+  URL: 'http://www.jstor.org.ezproxy.gc.cuny.edu/stable/10.5749/j.ctt5hjjtq.8'
+  ISBN: 978-0-8166-8004-7
+  author:
+    - family: Drucker
+      given: Johanna
+  collection-editor:
+    - family: HAYLES
+      given: N. KATHERINE
+    - family: PRESSMAN
+      given: JESSICA
+  issued:
+    date-parts:
+      - - 2013
+
+- id: bergson1919
+  type: book
+  title: Matter and Memory
+  collection-title: Library of philosophy
+  publisher: Allen & Unwin
+  number-of-pages: '339'
+  source: browse.nypl.org
+  call-number: 'YEG (Bergson, H. L. Matter and memory)'
+  author:
+    - family: Bergson
+      given: Henri
+    - family: Paul
+      given: Nancy Margaret
+    - family: Palmer
+      given: W. Scott
+  issued:
+    date-parts:
+      - - 1919
+  publisher-place: London
+
+- id: whitehead1968
+  type: book
+  title: Modes of Thought
+  collection-title: A Free Press paperback Philosophy
+  publisher: The Free Press
+  number-of-pages: '179'
+  edition: 1. Free Pr. paperback ed
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: 978-0-02-935210-6
+  note: 'OCLC: 595011'
+  language: eng
+  author:
+    - family: Whitehead
+      given: Alfred North
+  issued:
+    date-parts:
+      - - 1968
+  publisher-place: New York
+
+- id: woolf1977
+  type: book
+  title: 'The letters of Virginia Woolf. Vol. 1: 1888-1912'
+  collection-title: A Harvest book
+  publisher: Harcourt Brace Jovanovich
+  number-of-pages: '6'
+  edition: 1st Harvest ed
+  source: Library of Congress ISBN
+  ISBN: 978-0-15-650881-0
+  call-number: PR6045.O72 Z525 1977
+  author:
+    - family: Woolf
+      given: Virginia
+    - family: Nicolson
+      given: Nigel
+    - family: Banks
+      given: Joanne Trautmann
+  issued:
+    date-parts:
+      - - 1977
+  publisher-place: New York
+
+- id: taylor2003
+  type: book
+  title: 'The archive and the repertoire: performing cultural memory in the Americas'
+  publisher: Duke University Press
+  number-of-pages: '326'
+  source: Library of Congress ISBN
+  ISBN: 978-0-8223-3136-0 978-0-8223-3123-0
+  call-number: E20 .T39 2003
+  author:
+    - family: Taylor
+      given: Diana
+  issued:
+    date-parts:
+      - - 2003
+  publisher-place: Durham
+  title-short: The archive and the repertoire
+
+- id: hustvedt2010
+  type: book
+  title: 'The Shaking Woman, or, A History of My Nerves'
+  publisher: Henry Holt
+  number-of-pages: '213'
+  edition: 1st ed
+  source: Library of Congress ISBN
+  ISBN: 978-0-8050-9169-4
+  call-number: RC394.C77 H87 2010
+  note: 'OCLC: ocn319157196'
+  author:
+    - family: Hustvedt
+      given: Siri
+  issued:
+    date-parts:
+      - - 2010
+  publisher-place: New York
+
+- id: jolly2010
+  type: book
+  title: 'In Love and Struggle: Letters in Contemporary Feminism'
+  publisher: Columbia University Press
+  source: Open WorldCat
+  note: 'OCLC: 939156159'
+  language: English
+  author:
+    - family: Jolly
+      given: Margaretta
+  issued:
+    date-parts:
+      - - 2010
+  title-short: In Love and Struggle
+
+- id: james1995
+  type: book
+  title: 'The principles of psychology: in two volumes. Vol. 1: ...'
+  collection-title: 'Dover-books on biology, psychology and medicine'
+  publisher: Dover
+  number-of-pages: '689'
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: 978-0-486-20381-2
+  note: 'OCLC: 832885239'
+  language: eng
+  author:
+    - family: James
+      given: William
+  issued:
+    date-parts:
+      - - 1995
+  publisher-place: New York
+  title-short: The principles of psychology
+
+- id: woolf1983
+  type: book
+  title: 'The diary of Virginia Woolf. Vol. 4: 1931 - 1935'
+  publisher: Harcourt Brace & Company
+  number-of-pages: '402'
+  edition: 1. Harvest ed
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: 978-0-15-626039-8
+  note: 'OCLC: 254407627'
+  language: eng
+  author:
+    - family: Woolf
+      given: Virginia
+    - family: Bell
+      given: Anne Olivier
+  issued:
+    date-parts:
+      - - 1983
+  publisher-place: 'New York, NY'
+  title-short: The diary of Virginia Woolf. Vol. 4
+
+- id: woolf1985a
+  type: book
+  title: 'The diary of Virginia Woolf. Vol. 5: 1936 - 1941'
+  publisher: Harcourt Brace & Company
+  number-of-pages: '402'
+  edition: 1. Harvest ed
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: 978-0-15-626040-4
+  note: 'OCLC: 255830360'
+  language: eng
+  author:
+    - family: Woolf
+      given: Virginia
+    - family: Bell
+      given: Anne Olivier
+  issued:
+    date-parts:
+      - - 1985
+  publisher-place: 'New York, NY'
+  title-short: The diary of Virginia Woolf. Vol. 5
+
+- id: woolf1985
+  type: book
+  title: Moments of being
+  publisher: Harcourt Brace Jovanovich
+  number-of-pages: '230'
+  edition: 2nd ed
+  source: Library of Congress ISBN
+  ISBN: 978-0-15-661918-9
+  call-number: PR6045.O72 Z47 1985
+  author:
+    - family: Woolf
+      given: Virginia
+    - family: Schulkind
+      given: Jeanne
+  issued:
+    date-parts:
+      - - 1985
+  publisher-place: San Diego
+
+- id: kubler2008
+  type: book
+  title: 'The shape of time: remarks on the history of things'
+  publisher: Yale University Press
+  number-of-pages: '134'
+  source: Library of Congress ISBN
+  ISBN: 978-0-300-10061-7
+  call-number: N66 .K8 2008
+  note: 'OCLC: ocn167513621'
+  author:
+    - family: Kubler
+      given: George
+  issued:
+    date-parts:
+      - - 2008
+  publisher-place: 'New Haven [Conn.]'
+  title-short: The shape of time
+
+- id: benjamin1986
+  type: chapter
+  title: A Work of Art in the Age of Mechanical Reproduction.
+  container-title: Illuminations
+  publisher: Schocken Books
+  source: Library of Congress ISBN
+  ISBN: 978-0-8052-0241-0
+  call-number: PN37 .B4413 1986
+  language: engger
+  author:
+    - family: Benjamin
+      given: Walter
+    - family: Arendt
+      given: Hannah
+  issued:
+    date-parts:
+      - - 1986
+  publisher-place: New York
+
+- id: greetham2015
+  type: book
+  title: 'Textual scholarship: an introduction.'
+  publisher: Routledge
+  source: Open WorldCat
+  ISBN: 978-1-138-16864-0
+  note: 'OCLC: 929917780'
+  language: English
+  author:
+    - family: Greetham
+      given: David C
+  issued:
+    date-parts:
+      - - 2015
+  publisher-place: Place of publication not identified
+  title-short: Textual scholarship
+
+- id: drucker2014
+  type: book
+  title: 'Graphesis: visual forms of knowledge production'
+  collection-title: MetaLABprojects
+  publisher: Harvard University Press
+  number-of-pages: '213'
+  source: Library of Congress ISBN
+  ISBN: 978-0-674-72493-8
+  call-number: P93.5 .D78 2014
+  author:
+    - family: Drucker
+      given: Johanna
+  issued:
+    date-parts:
+      - - 2014
+  publisher-place: 'Cambridge, Massachusetts'
+  title-short: Graphesis
+
+- id: ong2002
+  type: book
+  title: Orality and literacy the technologizing of the word
+  publisher: Routledge
+  source: Open WorldCat
+  URL: 'http://www.myilibrary.com?id=1960'
+  note: 'OCLC: 300367089'
+  language: English
+  author:
+    - family: Ong
+      given: Walter J
+  issued:
+    date-parts:
+      - - 2002
+  accessed:
+    date-parts:
+      - - '2017'
+        - 12
+        - 13
+  publisher-place: London
+
+- id: nelson1987
+  type: book
+  title: Computer lib ; dream machines
+  publisher: Tempus Books of Microsoft Press
+  number-of-pages: '178'
+  edition: Rev. ed
+  source: Library of Congress ISBN
+  ISBN: 978-0-914845-49-2
+  call-number: QA76 .N39 1987
+  author:
+    - family: Nelson
+      given: Theodor H.
+  issued:
+    date-parts:
+      - - 1987
+  publisher-place: 'Redmond, Wash'
+
+- id: davidson1976
+  type: article-journal
+  title: >-
+    Bacteriologic diagnosis of acute pneumonia. Comparison of sputum,
+    transtracheal aspirates, and lung aspirates
+  container-title: JAMA
+  page: 158-163
+  volume: '235'
+  issue: '2'
+  source: PubMed
+  ISSN: 0098-7484
+  language: eng
+  author:
+    - family: Davidson
+      given: M.
+    - family: Tempest
+      given: B.
+    - family: Palmer
+      given: D. L.
+  issued:
+    date-parts:
+      - - 1976
+        - 1
+        - 12
+  PMID: '521'
+  container-title-short: JAMA
+
+- id: mckenzie
+  type: chapter
+  title: Bibliography and the sociology of texts
+  container-title: Bibliography and the sociology of texts
+  ISBN: 978-0-521-64258-3
+  author:
+    - family: McKenzie
+      given: McKenzie
+    - family: McKenzie
+      given: D. F. (Donald Francis)
+
+- id: mcgann2005
+  type: chapter
+  title: Dialogue and Interpretation at the Interface of Man and Machine
+  container-title: 'Radiant textuality: literature after the world wide web'
+  publisher: Palgrave
+  source: Open WorldCat
+  ISBN: 978-1-4039-6436-6
+  note: 'OCLC: 911234181'
+  language: English
+  author:
+    - family: McGann
+      given: Jerome J
+    - literal: Palgrave
+  issued:
+    date-parts:
+      - - 2005
+  publisher-place: New York
+
+- id: mcgann2005a
+  type: chapter
+  title: Rationale of Hypertext
+  container-title: 'Radiant textuality: literature after the world wide web'
+  publisher: Palgrave
+  source: Open WorldCat
+  ISBN: 978-1-4039-6436-6
+  note: 'OCLC: 911234181'
+  language: English
+  author:
+    - family: McGann
+      given: Jerome J
+    - literal: Palgrave
+  issued:
+    date-parts:
+      - - 2005
+  publisher-place: New York
+
+- id: kittler1997
+  type: book
+  title: 'Literature, media, information systems: essays'
+  collection-title: 'Critical voices in art, theory and culture'
+  publisher: Routledge
+  number-of-pages: '192'
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: 978-90-5701-061-3
+  note: 'OCLC: 862989428'
+  language: eng
+  author:
+    - family: Kittler
+      given: Friedrich A.
+  editor:
+    - family: Johnston
+      given: John
+  issued:
+    date-parts:
+      - - 1997
+  publisher-place: London New York
+  title-short: 'Literature, media, information systems'
+
+- id: kirschenbaum2016
+  type: book
+  title: 'Track changes: a literary history of word processing'
+  publisher: The Belknap Press of Harvard University Press
+  number-of-pages: '344'
+  source: Library of Congress ISBN
+  abstract: >-
+    "The story of writing in the digital age is every bit as messy as the
+    ink-stained rags that littered the floor of Gutenberg's print shop or the
+    hot molten lead of the linotype machine. During the period of the pivotal
+    growth and widespread adoption of word processing as a writing technology,
+    some authors embraced it as a marvel while others decried it as the death of
+    literature. The product of years of archival research and numerous
+    interviews conducted by the author, Track Changes is the first literary
+    history of word processing. Matthew Kirschenbaum examines how the interests
+    and ideals of creative authorship came to coexist with the computer
+    revolution. Who were the first adopters? What kind of anxieties did they
+    share? Was word processing perceived as just a better typewriter or
+    something more? How did it change our understanding of writing? Track
+    Changes balances the stories of individual writers with a consideration of
+    how the seemingly ineffable act of writing is always grounded in particular
+    instruments and media, from quills to keyboards. Along the way, we discover
+    the candidates for the first novel written on a word processor, explore the
+    surprisingly varied reasons why writers of both popular and serious
+    literature adopted the technology, trace the spread of new metaphors and
+    ideas from word processing in fiction and poetry, and consider the fate of
+    literary scholarship and memory in an era when the final remnants of
+    authorship may consist of folders on a hard drive or documents in the
+    cloud."--Provided by publisher
+  ISBN: 978-0-674-41707-6
+  call-number: Z52.4 .K57 2016
+  author:
+    - family: Kirschenbaum
+      given: Matthew G.
+  issued:
+    date-parts:
+      - - 2016
+  publisher-place: 'Cambridge, Massachusetts'
+  title-short: Track changes
+
+- id: boluk2013
+  type: chapter
+  title: 'Dwarven Epitaphs:: Procedural Histories in Dwarf Fortress'
+  container-title: Comparative Textual Media
+  collection-title: Transforming the Humanities in the Postprint Era
+  publisher: University of Minnesota Press
+  page: 125-154
+  source: JSTOR
+  abstract: >-
+    With the rise of digital inscription technologies, the history of the
+    twenty-first century will not be written by human hands alone. From
+    surveillance systems to medical databases to networked computers, automated
+    processes of information and exchange are already encoding an alternative
+    history of humanity and coauthoring the stories of the next century. Smart
+    phones log global position, online advertisements count clicks per capita,
+    search engines index content (and “personalize” results) in real time, and
+    automatic backup applications record the state of your hard drive so you can
+    “revisit your [computer] as it appeared in the past” (Apple 2012). Nowhere
+    are
+  URL: 'http://www.jstor.org.ezproxy.gc.cuny.edu/stable/10.5749/j.ctt5hjjtq.11'
+  ISBN: 978-0-8166-8004-7
+  author:
+    - family: Boluk
+      given: Stephanie
+    - family: LeMieux
+      given: Patrick
+  collection-editor:
+    - family: HAYLES
+      given: N. KATHERINE
+    - family: PRESSMAN
+      given: JESSICA
+  issued:
+    date-parts:
+      - - 2013
+  title-short: Dwarven Epitaphs
+
+- id: greg1950
+  type: article-journal
+  title: The Rationale of Copy-Text
+  container-title: Studies in Bibliography
+  page: 19-36
+  volume: '3'
+  source: JSTOR
+  URL: 'http://www.jstor.org/stable/40381874'
+  ISSN: 0081-7600
+  author:
+    - family: Greg
+      given: W. W.
+  issued:
+    date-parts:
+      - - 1950
+
+- id: bush1945
+  type: article-magazine
+  title: As We May Think
+  container-title: The Atlantic
+  source: The Atlantic
+  URL: 'https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/'
+  ISSN: 1072-7825
+  author:
+    - family: Bush
+      given: Vannevar
+  issued:
+    literal: July 1945 Issue
+
+- id: haraway
+  type: chapter
+  title: Cyborg Manifesto
+  container-title: 'Simians, cyborgs, and women : the reinvention of nature'
+  ISBN: 978-0-415-90386-8
+  author:
+    - family: Haraway
+      given: Donna Jeanne
+
+- id: hayles200612
+  type: article-journal
+  title: Unfinished Work
+  container-title: 'Theory, Culture & Society'
+  page: 159-166
+  volume: '23'
+  issue: 7-8
+  ISSN: 0263-2764
+  author:
+    - family: Hayles
+      given: Hayles
+    - family: Hayles
+      given: N. Katherine
+  issued:
+    date-parts:
+      - - 200612
+
+- id: yates
+  type: book
+  title: The art of memory
+  ISBN: 978-0-7126-5545-3
+  author:
+    - family: Yates
+      given: Yates
+    - family: Yates
+      given: Frances Amelia
+
+- id: aristotle
+  type: webpage
+  title: On Memory and Reminiscence
+  container-title: The Internet Classics Archive
+  URL: 'http://classics.mit.edu/Aristotle/memory.html'
+  author:
+    - family: Aristotle
+      given: ''
+  translator:
+    - family: Beare
+      given: J.I.
+  accessed:
+    date-parts:
+      - - '2017'
+        - 12
+        - 13
+
+- id: motamedifraser20150901
+  type: book
+  title: 'Word : Beyond Language, Beyond Image'
+  ISBN: 978-1-78348-142-2
+  author:
+    - family: Motamedi Fraser
+      given: Motamedi Fraser
+    - family: Motamedi Fraser
+      given: Mariam
+  issued:
+    date-parts:
+      - - 20150901
+  title-short: Word
+
+- id: schacter
+  type: book
+  title: 'The seven sins of memory : how the mind forgets and remembers'
+  ISBN: 978-0-618-04019-3
+  author:
+    - family: Schacter
+      given: Schacter
+    - family: Schacter
+      given: Daniel L.
+  title-short: The seven sins of memory
+
+- id: bakhtin
+  type: chapter
+  title: Forms of Time and of the Chronotope in the Novel
+  container-title: The dialogic imagination four essays
+  author:
+    - family: Bakhtin
+      given: Bakhtin
+    - family: Bakhtin
+      given: M. M. (Mikhail Mikhaĭlovich)
+
+- id: rotman2011
+  type: article-journal
+  title: Automedial Ghosts
+  container-title: Profession
+  page: 118-122
+  source: JSTOR
+  URL: 'http://www.jstor.org.ezproxy.gc.cuny.edu/stable/41714113'
+  ISSN: 0740-6959
+  author:
+    - family: ROTMAN
+      given: BRIAN
+  issued:
+    date-parts:
+      - - 2011
+
+- id: rotman2002
+  type: article-journal
+  title: Corporeal or Gesturo-haptic Writing
+  container-title: Configurations
+  page: 423-438
+  volume: '10'
+  issue: '3'
+  source: Project MUSE
+  URL: 'https://muse-jhu-edu.ezproxy.gc.cuny.edu/article/51659'
+  DOI: 10.1353/con.2004.0005
+  ISSN: 1080-6520
+  author:
+    - family: Rotman
+      given: B.
+  issued:
+    date-parts:
+      - - 2002
+  accessed:
+    date-parts:
+      - - '2017'
+        - 12
+        - 13
+
+- id: gleick2016
+  type: book
+  title: 'Time travel: a history'
+  publisher: Pantheon Books
+  number-of-pages: '336'
+  edition: First edition
+  source: Library of Congress ISBN
+  ISBN: 978-0-307-90879-7
+  call-number: QC173.59.S65 G54 2016
+  author:
+    - family: Gleick
+      given: James
+  issued:
+    date-parts:
+      - - 2016
+  publisher-place: New York
+  title-short: Time travel
+
+- id: siegert1999
+  type: book
+  title: 'Relays: literature as an epoch of the postal system'
+  collection-title: Writing science
+  publisher: Stanford University Press
+  number-of-pages: '325'
+  source: Library of Congress ISBN
+  ISBN: 978-0-8047-3236-9 978-0-8047-3238-3
+  call-number: PN98.S46 S5413 1999
+  language: eng
+  author:
+    - family: Siegert
+      given: Bernhard
+  issued:
+    date-parts:
+      - - 1999
+  publisher-place: 'Stanford, Calif'
+  title-short: Relays
+...
