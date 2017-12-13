@@ -1,5 +1,5 @@
 
-# Timely Letters
+# Time for/of Letters
 
 advisor Nancy K. Miller
 
