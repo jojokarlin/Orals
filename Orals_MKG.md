@@ -21,18 +21,18 @@ Development of technology as infrastructure/service/empire for expanding communi
 ## Clusters
 
 ### Digital Humanities
-* [Haraway](#Haraway)
-* [Hayles](#Hayles)
-* [McGann](#McGann)
-* [Drucker](#Drucker)
+* [Haraway](#haraway)
+* [Hayles](#hayles)
+* [McGann](#mcgann)
+* [Drucker](#drucker)
 
 ### Media Studies
 Social networks and new media increasingly influence our relationship to correspondence. By looking at how scholars have theorized new media, I hope to get a clearer sense of how the message is medium works across distributed communications platforms. With the Kittler and McLuhan, I aim to ground my reading in the works that defined Media Studies. Drucker, Gitelman, and Hayles will 
-* [Kittler](#Kittler)
-* [McLuhan](#McLuhan)
-* [Drucker](#Drucker)
-* [Gitelman](#Gitelman)
-* [McGann](#McGann)
+* [Kittler](#kittler)
+* [McLuhan](#mcluhan)
+* [Drucker](#drucker)
+* [Gitelman](#gitelman)
+* [McGann](#mcgann)
 
 #### Kittler, Friederich. Transl. John Johnston. **Literature, Information, Systems.** (1997)
 
@@ -56,13 +56,13 @@ McGann's radiant compilation emulates his sense of radiating texts. Ranging wide
 
 ### Communications Studies
 
-* [Benjamin, Walter.]
-* [Brunton, Finn.]
-* [Carey, James W.](####Carey)
-* [Nunes, Mark.](#### Nunes)
-* [Milne, Esther.](#### Milne)
-* [Ong, Walter.](#### Ong)
-* [Derrida, Jacques.](#### Derrida)
+* [Benjamin, Walter.](#benjamin)
+* [Brunton, Finn.](#brunton)
+* [Carey, James W.](#carey)
+* [Nunes, Mark.](#nunes)
+* [Milne, Esther.](#milne)
+* [Ong, Walter.](#ong)
+* [Derrida, Jacques.](#derrida)
 
 #### Benjamin
 
