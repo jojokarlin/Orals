@@ -147,3 +147,5 @@ Collecting letters is an important act in the twenty-first century. A number of 
 23. Milne, Esther. Letters, Postcards, Email: Technologies of Presence. Florence: Taylor and Francis, 2012. Routledge Research in Cultural and Media Studies. Web.
 24. Nelson, Ted. Computer Lib/Dream Machines. (1974)
 25. Ong, Walter. Orality and Literacy. Ed. John Hartley, New Accents Edition. Routledge, Taylor and Francis, 1982.
+
+# References
