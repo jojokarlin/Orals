@@ -1043,4 +1043,23 @@ references:
       - - 1999
   publisher-place: 'Stanford, Calif'
   title-short: Relays
+
+- id: husserl2012
+  type: book
+  title: 'Ideas: general introduction to pure phenomenology'
+  collection-title: Routledge classics
+  publisher: Routledge
+  number-of-pages: '376'
+  source: Library of Congress ISBN
+  ISBN: 978-0-415-51903-8 978-0-203-12033-0
+  call-number: B3279.H93 I33 2012
+  language: eng
+  author:
+    - family: Husserl
+      given: Edmund
+  issued:
+    date-parts:
+      - - 2012
+  publisher-place: London ; New York
+  title-short: Ideas
 ...
