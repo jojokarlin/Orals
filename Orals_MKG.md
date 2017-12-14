@@ -29,16 +29,18 @@ Development of technology as infrastructure/service/empire for expanding communi
 (Either Communications as Empire or Necessitated by Empire...)
 
 
-## Clusters
 
 ### Digital Humanities
+
 * [Haraway](#haraway)
 * [Hayles](#hayles)
 * [McGann](#mcgann)
 * [Drucker](#drucker)
 
 ### Media Studies
+
 Social networks and new media increasingly influence our relationship to correspondence. By looking at how scholars have theorized new media, I hope to get a clearer sense of how the message is medium works across distributed communications platforms. With the Kittler and McLuhan, I aim to ground my reading in the works that defined Media Studies. Drucker, Gitelman, and Hayles will 
+
 * [Kittler](#kittler1997)
 * [McLuhan](#mcluhan1964)
 * [Drucker](#drucker2014)
@@ -69,6 +71,13 @@ McGann's radiant compilation emulates his sense of radiating texts. Ranging wide
 
 ### Communications Studies
 
+Carey provides a philosophical argument in favor of Communications studies as fundamental to a cultural studies model of language and literature scholarship. Combined with Siegert and Derrida, he makes a case for the centrality of communication in our understanding of cultural output. 
+While Milne outlines parameters of written correspondence -- intimacy, immediacy, spontaneity -- in her historical review, she focuses more on issues of presence than on time. In her chapter on letters, she gives accounts of different experiences that coincided with advances and standardizations in royal mail in England. These cases are useful for sketching the various influences that comprised the post, delivery, and receipt of letters from the 19th through the early 20th century, but Milne does not directly attempt an analysis of the shifting perception of time across these changes. Through close reading of Elizabeth Barrett Browning and Mary Mitford, she arrives at a number of useful terms for analyzing letters.
+
+Brunton’s SPAM: A Shadow History of the Internet provides necessary ballast to the personal correspondence conducted via email. Brunton looks at the different populations sending the annonymous messages that reach individual emailers every day. As users we have developed stronger suspicions about certain mispellings, drug claims, and even messages from our own contacts. Brunton looks at the impersonal messages that make their way into an inbox through three epochs: 1970s until the dawn of the world wide web; 1995-2003, the dot-com boom; and 2003 to today, the age of the algorithm.
+
+Walter Benjamin's influential essay "The Work of Art in the Age of Mechanical Reproduction" gives a historical, cultural critical perspective. Benjamin argues that the mass reproduction of art objects diminishes its "aura." He identifies concerns of technology at the time of the letters I will be analyzing, and establishes a space of critical criticism. Labelling machine-made artistic production as absent of traditional and ritualistic values, Benjamin sees mass production as the wielding of political power. Not only does this essay provide important context of the early 20th century, but its argument also contends with an anxiety about dehumanization that only rises with the further mechanization and electrification of personal correspondence by computer.
+
 * [Benjamin, Walter.](#benjamin)
 * [Brunton, Finn.](#brunton)
 * [Carey, James W.](#carey)
@@ -77,24 +86,22 @@ McGann's radiant compilation emulates his sense of radiating texts. Ranging wide
 * [Ong, Walter.](#ong)
 * [Derrida, Jacques.](#derrida)
 
-#### Benjamin
-Walter Benjamin's influential essay "The Work of Art in the Age of Mechanical Reproduction" argues that the mass reproduction of art objects diminishes its "aura." He identifies concerns of technology at the time of the letters I will be analyzing, and establishes a space of critical criticism. Labelling machine-made artistic production as absent of traditional and ritualistic values, Benjamin sees mass production as the wielding of political power. Not only does this essay provide important context of the early 20th century, but its argument also contends with an anxiety about dehumanization that only rises with the further mechanization and electrification of personal correspondence by computer. 
-
-#### Carey
-Carey provides a philosophical argument in favor of Communications studies as fundamental to a cultural studies model of language and literature scholarship. 
-
-#### Brunton
-"The vast majority of all email sent every day is spam, a variety of idiosyncratically spelled requests to provide account information, invitations to spend money on dubious products, and pleas to send cash overseas. Most of it is caught by filters before ever reaching an in-box. Where does it come from? As Finn Brunton explains in Spam, it is produced and shaped by many different populations around the world: programmers, con artists, bots and their botmasters, pharmaceutical merchants, marketers, identity thieves, crooked bankers and their victims, cops, lawyers, network security professionals, vigilantes, and hackers. Every time we go online, we participate in the system of spam, with choices, refusals, and purchases the consequences of which we may not understand.""
-
-"This is a book about what spam is, how it works, and what it means. Brunton provides a cultural history that stretches from pranks on early computer networks to the construction of a global criminal infrastructure. The history of spam, Brunton shows us, is a shadow history of the Internet itself, with spam emerging as the mirror image of the online communities it targets. Brunton traces spam through three epochs: the 1970s to 1995, and the early, noncommercial computer networks that became the Internet; 1995 to 2003, with the dot-com boom, the rise of spam’s entrepreneurs, and the first efforts at regulating spam; and 2003 to the present, with the war of algorithms—spam versus anti-spam. Spam shows us how technologies, from email to search engines, are transformed by unintended consequences and adaptations, and how online communities develop and invent governance for themselves."
 
 ### Textual Scholarship
+
 Collecting letters is an important act in the twenty-first century. A number of projects exist to recuperate the letters that have fallen away as email has become the primary mode of personal correspondence. Letter collections are still published, but not necessarily read as history as much as they once were. To correspond with my primary source letters (see NKM list), I am including necessary texts about critical editions. To understand how best to address these necessarily curated works (even in reading comprehensive collections of letters, the hand of the editor is flagrantly visible), I must have a grounding in textual scholarship. I am interested to see how letters come into email and how email find their way into authors' archives. Both of these interests come within textual scholarship.
 
 * Tanselle.  "The Varieties of Scholarly Editing"
 * Greg. W.W. "The Rationale of Copy-Text." Studies in Bibliography 3, (1951)
 * Greetham. Textual Scholarship. Garland Publishing, (1994)
 * McKenzie. (1999)
+
+
+# Digital Editions of Letters
+
+This section also relates the ideas of new media as the relate to new critical editions. Hypertext collapses the notion of co-presence on the word. Considering McGann’s “Rationale of Copy-text,” Sula’s "Place Presence, Social Presence, Co-presence, and Satisfaction in Virtual Worlds,” Kirschenbaum’s media archeology, Derrida’s Paper Machines, N. Katherine Hayles and Jessica Pressman’s Comparative Textual Media, and Drucker’s Graphesis, I will look at how new media and text interact at the interface. Using the grounding in traditional methods of textual criticism, I will consider how letters sit in relation to other genres. The generic concern is a concern of media. The idiosyncratic archival practices that make literary historical research intricate face even greater obstacles of compatibility when it comes to letters. Whether collected as a conversation between two authors or held within a single author’s papers, written letters have at minimum two centers of gravity. The concerns of keeping letters together with an author’s papers has a lot to do with who saved what and accessioned what and where. Each epistolary exchange raises a new set of institutional confusions. 
+
+Electronic correspondence changes the rules. The skeuomorphic imprint of mail on our everyday messaging interfaces indicate some parallel functions, but the technologies are dramatically different. It would seem that the fact of rapid reproducibility and duplication in transmission would make "born digital" correspondence much easier to observe and track. Yet without the material security of dispersal, the question of author's legacy copyright and privacy become a different matter. In many cases, like that of Susan Sontag's emails held at UCLA, what has been accessioned and is available for public perusal has a number of gates built around it to protect the material from wide duplication, dispersal, and potential contamination. To read the 17,000 messages, one must sit in a reading room, with permission from the relevant collections librarians, as you would with letters, and fire up a library sanctioned laptop. The vestigial practices of discretion map onto a previous model. But email doesn't strictly behave as letters did (if letters even ever strictly behaved). Reading Bolter's history of writing, Ong's *Orality and Literacy*, and Nunes's chapter in *Cyberspaces of Everyday Life* tease out some of the expectations of the rules of contemporary electronic communication in relation to past practices. Milne provides useful history of letters and email, though she winds up discussing anonymous list emails rather than one-on-one personal correspondence in the digital era. 
 
 
 ### Technologies 
